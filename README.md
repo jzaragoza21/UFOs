@@ -14,3 +14,13 @@ As noted above, the prior webpage only allowed users to perform a search of UFO 
 ![UnfilteredTable](https://github.com/jzaragoza21/UFOs/blob/main/Resources/UnfilteredTable.PNG)
 
 ![FilteredTable](https://github.com/jzaragoza21/UFOs/blob/main/Resources/FilteredTable.PNG)
+
+
+## Summary of Analysis
+
+The first glaring drawback is this webpage does not resize on mobile or tablet devices. If we were to continue to build and upgrade this webpage, the first recommendation would be to use javascript to add formatting so that the webpage responds accorindgly to commonly used mobile and tablet devices.
+
+As for two additional recommendations for further development, the two are as follows:
+
+   - First, I would recommend a way in which users could visit the website and upload their own UFO sightings experience. This way we could help grow the dataset and to keep the data clean, they could only upload data that falls within the established criterion of "date, city, state, country, shape and comments."
+   - Secondly, I would recommend we develop a some type of global heat map. Not only would it make this webpage more visually appealing and user friendly but most importantly, it could help identify any geographic trends with UFO sightings. 
